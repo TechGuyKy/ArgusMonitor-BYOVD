@@ -127,7 +127,3 @@ Add the SHA256 hash to your WDAC Supplemental Policy as a `<Deny>` rule, or bloc
 HVCI does **not** block this driver in its current state.
 
 ---
-
-## Credit
-
-[@weezerOSINT](https://x.com/weezerOSINT) / Telegram: @weezer
