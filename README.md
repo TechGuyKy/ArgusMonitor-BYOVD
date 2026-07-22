@@ -124,6 +124,8 @@ The script loads the driver via `sc.exe`, performs the handshake, runs each test
 
 Add the SHA256 hash to your WDAC Supplemental Policy as a `<Deny>` rule, or block the Argotronic UG EV signer entirely. Microsoft's [Vulnerable Driver Blocklist](https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/design/microsoft-recommended-driver-block-rules) update is pending.
 
+Use at own discretion
+
 HVCI does **not** block this driver in its current state.
 
 ---
